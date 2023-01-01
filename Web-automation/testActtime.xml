@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="testing">
+	<test name="actitime testcase">
+		<classes>
+			<class
+				name="com.sgtesting.pocAssignments.Assignment1LoginLogout"></class>
+			<class
+				name="com.sgtesting.pocAssignments.Assignment2CreateAndModifyUSer"></class>
+			<class
+				name="com.sgtesting.pocAssignments.Assignment4CreateAndDeleteCustomer"></class>
+			<class
+				name="com.sgtesting.pocAssignments.Assignment5ModifyCustomer"></class>
+			<class
+				name="com.sgtesting.pocAssignments.Assignment6CreateanddeleteCustomerAndProject"></class>
+			<class
+				name="com.sgtesting.pocAssignments.Assignment7ModifyProject"></class>
+		</classes>
+	</test>
+</suite>
